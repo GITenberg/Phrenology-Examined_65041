@@ -1,0 +1,25 @@
+_repo: Phrenology-Examined_65041
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Meigs, Charles de Lucena
+    gutenberg_agent_id: '53157'
+    url: http://www.gutenberg.org/2009/agents/53157
+creator:
+  author:
+    agent_name: Flourens, P.
+    gutenberg_agent_id: '53156'
+    url: http://www.gutenberg.org/2009/agents/53156
+description: ''
+gutenberg_issued: '2021-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65041'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Phrenology Examined
+url: http://www.gutenberg.org/ebooks/65041
