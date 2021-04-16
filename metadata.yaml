@@ -1,16 +1,21 @@
 _repo: Phrenology-Examined_65041
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Meigs, Charles de Lucena
     gutenberg_agent_id: '53157'
     url: http://www.gutenberg.org/2009/agents/53157
+covers:
+- cover_type: archival
+  image_path: 65041-h/images/cover.jpg
 creator:
   author:
     agent_name: Flourens, P.
     gutenberg_agent_id: '53156'
     url: http://www.gutenberg.org/2009/agents/53156
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65041#Phrenology-Examined
 gutenberg_issued: '2021-04-09'
 gutenberg_type: Text
 identifiers:
